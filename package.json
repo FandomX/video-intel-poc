@@ -1,0 +1,14 @@
+{
+  "name": "fandomx-video-intel-poc",
+  "version": "1.0.0",
+  "description": "FandomX Video Intelligence POC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ajay Srinivas",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/video-intelligence": "^5.1.0"
+  }
+}
